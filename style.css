@@ -1,25 +1,9 @@
-body {
-  background: linear-gradient(to bottom right, #f0f8ff, #e0ffff);
-  /* #f0f8ff é um azul claro muito suave (AliceBlue) */
-  /* #e0ffff é um ciano muito claro (LightCyan) */
-  min-height: 100vh; /* Garante que o gradiente cubra toda a altura da viewport */
-  margin: 0; /* Remove a margem padrão do body */
-  display: flex; /* Para centralizar conteúdo se houver */
-  justify-content: center;
-  align-items: center;
-  font-family: Arial, sans-serif; /* Apenas para exemplo de fonte, pode remover */
-  color: #333; /* Cor de texto para contraste */
-}
-
-/* Exemplo de como usar com um container para ver o fundo */
-.container {
-  background-color: rgba(255, 255, 255, 0.8); /* Fundo branco semi-transparente para o conteúdo */
-  padding: 30px;
-  border-radius: 15px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Sombra suave */
+h1 {
+  color: #4940c4; /* Um tom de azul mais escuro para títulos */
+  margin-bottom: 20px;
   text-align: center;
 }
-
-h1 {
-  color: #4682b4; /* Azul mais escuro para o título */
-}
+p {
+  line-height: 1.6;
+  color: #000000;
+text-align: center;
