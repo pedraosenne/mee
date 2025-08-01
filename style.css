@@ -7,3 +7,10 @@ p {
   line-height: 1.6;
   color: #000000;
 text-align: center;
+ 
+ div{
+  bottom: ;
+  margin: 17px;
+  background-color: azure;
+  text-align: center;
+ }
